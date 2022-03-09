@@ -1,5 +1,5 @@
 <p align=”center”>
-<img src="https://user-images.githubusercontent.com/95768375/157180829-94d4c2af-daaa-4a12-9fa2-adc1f808b90d.png" alt="Aditya_kasturi">
+<img src="https://user-images.githubusercontent.com/95768375/157508993-a276ebbc-8ffb-47a8-90ef-6dbf4e69c8cf.png">
 </p>
                                                                                                                 
 # :wave: Hi There
