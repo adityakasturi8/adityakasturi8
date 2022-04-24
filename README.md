@@ -8,7 +8,7 @@
 - A graudate student in Data Science and Analytics. A Data Science passionate with 2 years of experience in solving challenging problems with analysis and analytical oriented solutions in technology, auditing, consulting, research and defence industry.
 - My pathway towards computers began with the assembly of a CPU, wrote my first Code, extracted knowledge about (hardware, networking, cybersecurity, cloud, etc.), to today's creative work on data regression, predictive data models, data analytics, data visualization, and machine learning models. 
 
-## Actively Looking for Internship Opprtunties for Summer 2022
+## Actively Looking for Internship and Fulltime Opportunties
 
 __Connect with me__
 
